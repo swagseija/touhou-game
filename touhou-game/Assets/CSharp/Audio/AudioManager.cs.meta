@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c1dd70c4b30232b4880a5bfabd7e5a7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fairyHurtClip: {fileID: 8300000, guid: 14bbebb09a6783c4d81366a2c214c00a, type: 3}
+  - fairyDeathClip: {fileID: 8300000, guid: 44e3d92333a094d49904c57fc3833740, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
